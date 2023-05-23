@@ -38,7 +38,7 @@
             android:layout_weight="1"
             android:background="#0000aa"
             android:layout_gravity="center_horizontal"
-            android:text="Biru"/>
+            android:text="Biru"
 
         <TextView
             android:layout_width="wrap_content"
